@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Louise  👋
-- 🔭 Hoje trabalho com Back-end
+- 🔭 Estudando Back-end
 - 🌱 Estudando Golang 
-- 🤔 Estagiando na Globo 
 
 <div align="center">
   <a href="https://github.com/Louis3-silv4">

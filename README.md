@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Louise  👋
 - 🔭 Estudando Back-end
-- 🌱 Estudando Golang 
 
 <div align="center">
   <a href="https://github.com/Louis3-silv4">

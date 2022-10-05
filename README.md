@@ -1,11 +1,5 @@
 ### Olá! Eu sou a Louise  👋
 - 🔭 Estudando Back-end
-
-<div align="center">
-  <a href="https://github.com/Louis3-silv4">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Louis3-silv4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis3-silv4&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">

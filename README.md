@@ -6,7 +6,7 @@
   <img align="center" alt="Rafa-Ts" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Rafa-React" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="55" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
-  <img align="center" alt="Rafa-CSS" height="55" width="70" src="[https://cdn-icons-png.flaticon.com/512/919/919826.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuR36X_N08spVlfVy815ys4YkPUpP1c5zVaw8bkUdQda8_gJ2A2gsJSAjXe9I0VhJ_83A&usqp=CAU)">
+  <img align="center" alt="Rafa-CSS" height="55" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1wIRMxilT2Ulc0q95zKrMIFbnJYlj70wX__HEpx6aQoiAwoWZPvE3J_WfJgEYu5peVk&usqp=CAU">
   <img align="center" alt="Rafa-Python" height="55" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg">
   <img align="left" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://i.picasion.com/pic91/55f48bbea511a651a6c9a2442b86335a.gif">

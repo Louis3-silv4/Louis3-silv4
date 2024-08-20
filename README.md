@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Louise  👋
-- 🔭 Estudando Front-End
+- 🔭 Junior Software Developer
   
  <div style="display: inline_block"><br>
   <img align="left" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://i.picasion.com/pic91/55f48bbea511a651a6c9a2442b86335a.gif">
